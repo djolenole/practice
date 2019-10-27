@@ -4,4 +4,4 @@ test
 
 Jos jedan text line
 
-Ovo je obrisano lokalno :)
+Ovo je obrisano lokalno :) kkk
