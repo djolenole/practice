@@ -3,4 +3,4 @@
 test
 
 Jos jedan text line
-Sa servera je poslednje
+Sa lokala poslednje
