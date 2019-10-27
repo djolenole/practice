@@ -4,4 +4,4 @@ test
 
 Jos jedan text line
 
-Ovo je dodato na githubu :)
+Ovo je obrisano lokalno :)
